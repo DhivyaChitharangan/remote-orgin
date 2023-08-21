@@ -1,0 +1,13 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "pretty-formatter.braceLine": true,
+    "pretty-formatter.bracePadding": true,
+    "pretty-formatter.braces": true,
+    "pretty-formatter.comments": true,
+    "pretty-formatter.commentLine": true,
+    "pretty-formatter.compressedCss": false,
+    "pretty-formatter.spaceClose": true,
+    "pretty-formatter.unformatted": false,
+    "pretty-formatter.tagSort": true,
+    "pretty-formatter.vertical": true
+}
