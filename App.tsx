@@ -6,10 +6,10 @@
  */
 import 'react-native-gesture-handler';
 import React from 'react';
-import { ThemeProvider } from './android/app/src/theme/ThemeProvider';
-import Router from './android/app/src/NavigationRouter/Router';
-import { View } from 'react-native';
-import { useThemeContext } from './android/app/src/theme/Theme';
+import { ThemeProvider } from './src/screens/theme/ThemeProvider';
+ import { View } from 'react-native';
+import { useThemeContext } from './src/screens/theme/Theme';
+import Router from './src/screens/NavigationRouter/Router';
 
 
 const App=()=>{
